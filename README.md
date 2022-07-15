@@ -11,8 +11,8 @@ This guide will provide an overview of my design choices as well as a step-by-st
 
 -----
 # Table of contents
-1. [License](#license)
-2. [Parts (bill of materials)](#parts-bill-of-materials)
+1. license
+2. bill of materials
 3. Prepare Raw Materials
   1. Print and Prepare required parts
   2. Cut Aluminum Extrusions
@@ -59,4 +59,54 @@ There are a few tools that are required to put this machine together;
 * M6 Tap Drill
 * Circular Saw (To cut the MDF Spoilboard)
 
+# Prepare Raw Materials
 
+#### 1. Print and Prepare required parts
+
+#### 2. Cut Aluminum Extrusions
+
+#### 3. Tap Aluminum Extrusions
+
+#### 4. Cut Lead Screws
+
+# Build the Machine
+
+## 1. Assemble the frame
+
+#### 1. Mounting the Extrusions
+
+#### 2. Mount the Linear Rails
+
+#### 3. Mount the Pillow Blocks
+
+#### 4. Mount Stepper motors 
+
+## 2. Assemble the X Axis Gantry
+
+#### 1. Mount Linear Rails
+
+#### 2. Mount Extusions to Uprights
+
+#### 3. Install Pillow Blocks, Stepper motor
+
+## 3. Attach X Axis to Base
+
+#### 1. Mount the uprights to linear rails
+
+#### 2. Install Lead Screws
+
+## 4. Assemble Z Axis Gantry
+
+#### 1. Mount the Linear Rails
+
+#### 2. Mount the Motor
+
+#### 3. Attach Z Axis to X Axis
+
+#### 4. Attach Spindle Mounting Plate
+
+#### 5. Install Lead Screw
+
+#### 6. Install Spindle
+
+## 5. Wire up the Machine
