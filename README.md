@@ -22,6 +22,8 @@ There are a few tools that are required to put this machine together;
 * Jigsaw with metal cutting blades/Chop saw (Essentially some way to cut the aluminum extrusions and leadscrews)
 * M6 Tap Drill
 * Circular Saw (To cut the MDF Spoilboard)
+* Drill bit set
+
 
 # Prepare Raw Materials
 
