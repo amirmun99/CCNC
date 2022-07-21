@@ -7,7 +7,9 @@ The Goal for this project is to create a relatively cheap (Sub $500CAD) CNC Mach
 
 This machine utilizes many 3D Printed parts in order to keep costs down, assuming you already have a 3D Printer. Some printed parts have off the shelf alternatives, some can also be replicated in wood using basic hand tools, while other (Mainly the X Gantry Uprights) have to be printed. More information is found in the documents.
 
-This guide will provide an overview of my design choices as well as a step-by-step guide on how to make your own, starting from scratch.
+The machine/files should be relatively adapatble to different use cases
+
+This guide will provide an overview of my design choices as well as a basic assembly guide.
 
 # Parts (bill of materials)
 
