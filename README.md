@@ -30,20 +30,27 @@ There are a few tools that are required to put this machine together;
 # Prepare Raw Materials
 
 #### 1. Print and Prepare required parts
+Follow the Print Settings file in the STLs Folder
 
 #### 2. Cut Aluminum Extrusions
+Follow the Cutlist file, I would recomend not cutting the X Axis extrusions until the uprights are mounted in order to get a snug fit. 
 
 #### 3. Tap Aluminum Extrusions
+All of the extrusions need to be threaded with an M5x0.50 tap, except for the 2 frame crossmembers.
 
 #### 4. Cut Lead Screws
+Follow the cutlist file if you need to cut your leadscrews, if you purchase the legnths I listed in the parts list, there is no cutting required
 
 # Build the Machine
 
 ## 1. Assemble the frame
 
 #### 1. Mounting the Extrusions
+Start by mounting a pair of 520mm extrusions to each pair of brackets as shown in the photo (Using M5x20 SHCS). Then attach the 450mm Crossmembers using the corner brackets.
+
 
 #### 2. Mount the Linear Rails
+Mount the 500mm Linear rails on top of the top most frame rail using M3x8 SHCS as well as M3 T-Nuts. Leave 10mm of gap on either side of the rail.
 
 #### 3. Mount the Pillow Blocks
 
