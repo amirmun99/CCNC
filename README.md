@@ -47,31 +47,30 @@ Follow the cutlist file if you need to cut your leadscrews, if you purchase the 
 
 #### 1. Mounting the Extrusions
 Start by mounting a pair of 520mm extrusions to each pair of brackets as shown in the photo (Using M5x20 SHCS). Then attach the 450mm Crossmembers using the corner brackets.
-![Cheaper_CNC_Master_Build_Threaded_2022-Jul-27_03-07-52PM-000_CustomizedView17456528297](https://user-images.githubusercontent.com/37276609/181283440-f9948887-bd01-4d2f-98d6-a2e498f5ff77.png)
-
+![Cheaper_CNC_Master_Build_Threaded_2022-Jul-27_03-12-39PM-000_CustomizedView15145977333 (2)](https://user-images.githubusercontent.com/37276609/181285714-c22e731b-7568-4b3b-9684-3f5220d3062a.png)
 
 #### 2. Mount the Linear Rails
 Mount the 500mm Linear rails on top of the top most frame rail using M3x8 SHCS as well as M3 T-Nuts. Leave 10mm of gap on either side of the rail.
+![Cheaper_CNC_Master_Build_Threaded_2022-Jul-27_03-23-58PM-000_CustomizedView48378132536 (2)](https://user-images.githubusercontent.com/37276609/181287748-cdc954f7-093f-4acd-ae3b-4c0472d55cf3.png)
+
 
 #### 3. Mount the Pillow Blocks
+Mount one pillow block to each of the front frame brackets using M5x16 SHCS. I would recommend tapping these holes as well.
 
 #### 4. Mount Stepper motors 
+Prepare 2 stepper motors by installing a flexible coupler onto each, then mount one to each of the rear frame brackets using M3x55 SHCS and the 3D Printed Spacers.
 
 ## 2. Assemble the X Axis Gantry
 
-#### 1. Mount Linear Rails
+#### 1. Prepare the Uprights
 
-#### 2. Mount Extusions to Uprights
+#### 2. Mount Uprights to Frame
 
-#### 3. Install Pillow Blocks, Stepper motor
+#### 3. Install X Axis Extrusion and Rails
 
-## 3. Attach X Axis to Base
+#### 4. Install Stepper Motor
 
-#### 1. Mount the uprights to linear rails
-
-#### 2. Install Lead Screws
-
-## 4. Assemble Z Axis Gantry
+## 3. Assemble Z Axis Gantry
 
 #### 1. Mount the Linear Rails
 
@@ -83,7 +82,9 @@ Mount the 500mm Linear rails on top of the top most frame rail using M3x8 SHCS a
 
 #### 5. Install Lead Screw
 
-#### 6. Install Spindle
+#### 6. Install Spindle Mount
+
+## 4. Install Lead Screws and Wiring
 
 ## 5. Wire up the Machine
 
