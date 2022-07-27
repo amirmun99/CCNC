@@ -22,7 +22,7 @@ There are a few tools that are required to put this machine together;
 
 * Metric Hex/Allen Keys
 * Jigsaw with metal cutting blades/Chop saw (Essentially some way to cut the aluminum extrusions and leadscrews)
-* M6 Tap Drill
+* M5 Tap Drill
 * Circular Saw (To cut the MDF Spoilboard)
 * Drill bit set
 
@@ -47,6 +47,7 @@ Follow the cutlist file if you need to cut your leadscrews, if you purchase the 
 
 #### 1. Mounting the Extrusions
 Start by mounting a pair of 520mm extrusions to each pair of brackets as shown in the photo (Using M5x20 SHCS). Then attach the 450mm Crossmembers using the corner brackets.
+![Cheaper_CNC_Master_Build_Threaded_2022-Jul-27_03-07-52PM-000_CustomizedView17456528297](https://user-images.githubusercontent.com/37276609/181283440-f9948887-bd01-4d2f-98d6-a2e498f5ff77.png)
 
 
 #### 2. Mount the Linear Rails
