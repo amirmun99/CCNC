@@ -9,7 +9,7 @@ This machine utilizes many 3D Printed parts in order to keep costs down, assumin
 
 The machine/files should be relatively adapatble to different use cases
 
-This guide will provide an overview of my design choices as well as a basic assembly guide.
+This assembly guide is rough, but will be refined and updated as the design gets better overall
 
 # Parts (bill of materials)
 
