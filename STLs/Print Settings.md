@@ -1,5 +1,7 @@
 Below are the settings that I used to print the initial CCNC. These settings are likely overkill in terms of strength.
 
+My entire machine is printed with normal Polymaker PLA, inclduing the components near the spindle. I would recommend printing these in PETG to add heat resistance.
+
 
 
 | **File**               | **Walls** | **Infill** | **Recommended Material** | **Support** |
