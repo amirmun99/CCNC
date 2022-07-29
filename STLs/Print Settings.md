@@ -2,13 +2,15 @@ Below are the settings that I used to print the initial CCNC. These settings are
 
 
 
-| **File**               | **Walls** | **Infill** | **Recommended Material** |
-|------------------------|-----------|------------|--------------------------|
-| Front Frame Bracket    | 3         | 30         | PLA                      |
-| Rear Frame Bracket     |  3        | 30         | PLA                      |
-| Left X Gantry Upright  | 4         | 20         | PLA                      |
-| Right X Gantry Upright | 4         | 20         | PLA                      |
-| Z Gantry               | 4         | 45         | PETG                     |
-| Tool Mount             | 4         | 30         | PETG                     |
-| Makita Router Mount    | 4         | 50         | PETG                     |
-| Motor Spacers          | 2         | 100        | PLA                      |
+| **File**               | **Walls** | **Infill** | **Recommended Material** | **Support** |
+|------------------------|-----------|------------|--------------------------|-------------|
+| Front Frame Bracket    | 3         | 30         | PLA                      | No
+| Rear Frame Bracket     |  3        | 30         | PLA                      | No
+| Left X Gantry Upright  | 4         | 20         | PLA                      | Yes, Touching Buildplate
+| Right X Gantry Upright | 4         | 20         | PLA                      | Yes, Touching Buildplate
+| Z Gantry               | 4         | 45         | PETG                     | Yes, touching Buildplate
+| Tool Mount             | 4         | 30         | PETG                     | No
+| Makita Router Mount    | 4         | 50         | PETG                     | No
+| Motor Spacers          | 2         | 100        | PLA                      | No
+| Left Front Stop Block  | 3         | 50         | PLA                      | No
+| Right Front Stop Block | 3         | 50         | PLA                      | No
