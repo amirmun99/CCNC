@@ -75,11 +75,18 @@ Install T-Flanges into the X Gantry Uprights
 
 #### 2. Mount Uprights to Frame
 Using 16 M3x18 SHCS, mount both uprights to to the frame as shown in the photo. 
+[Cheaper_CNC_Master_Build_Threaded_v2_2022-Aug-07_02-33-53AM-000_CustomizedView3710265809](https://user-images.githubusercontent.com/37276609/183272637-f534e99f-406f-4ec1-a07f-7fb0adbf4d35.png)
+
 
 #### 3. Install X Axis Extrusion and Rails
-Using 4 M5x20 SHCS, Mount both 
+Using 4 M5x20 SHCS, Mount both 530mm extrusions to the uprights. The small flanges should help the extrusions stay square during assembly. 
+![Cheaper_CNC_Master_Build_Threaded_v2_2022-Aug-07_02-40-22AM-000_CustomizedView10348442718](https://user-images.githubusercontent.com/37276609/183272678-7b2bfb1f-1580-469a-be05-887b54f815ff.png)
 
-#### 4. Install Stepper Motor
+
+#### 4. Install X Axis Stepper Motor
+Prepare the stepper motor by installing a flexible coupler onto the shaft, then mount to the right side upright using M3x55 SHCS and the 3D Printed Spacers.
+![Cheaper_CNC_Master_Build_Threaded_v2_2022-Aug-07_02-43-08AM-000_CustomizedView12554706739](https://user-images.githubusercontent.com/37276609/183272723-6fde183e-a196-4f94-9bbd-a3d79d0ba8bf.png)
+
 
 ## 3. Assemble Z Axis Gantry
 
