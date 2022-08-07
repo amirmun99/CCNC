@@ -54,19 +54,30 @@ Mount the 500mm Linear rails on top of the top most frame rail using M3x8 SHCS a
 ![Cheaper_CNC_Master_Build_Threaded_2022-Jul-27_03-23-58PM-000_CustomizedView48378132536 (2)](https://user-images.githubusercontent.com/37276609/181287748-cdc954f7-093f-4acd-ae3b-4c0472d55cf3.png)
 
 
-#### 3. Mount the Pillow Blocks
-Mount one pillow block to each of the front frame brackets using M5x16 SHCS. I would recommend tapping these holes as well.
+#### 3. Mount the Pillow Blocks and hard stops
+Mount one pillow block to each of the front frame brackets using M5x16 SHCS. Use the top screw to also mount the Y Axis hard stop. I would recommend tapping these holes as well.
+![Cheaper_CNC_Master_Build_Threaded_v2_2022-Aug-07_02-21-52AM-000_CustomizedView17407069426](https://user-images.githubusercontent.com/37276609/183272396-67e349ea-c75c-4993-9f20-b628a69330cf.png)
+
 
 #### 4. Mount Stepper motors 
 Prepare 2 stepper motors by installing a flexible coupler onto each, then mount one to each of the rear frame brackets using M3x55 SHCS and the 3D Printed Spacers.
+![Cheaper_CNC_Master_Build_Threaded_v2_2022-Aug-07_02-25-20AM-000_CustomizedView8771721841](https://user-images.githubusercontent.com/37276609/183272423-f46f13af-0c4b-4dec-b20f-2f84fbdbb9c8.png)
+
+#### Frame is Assembled
+Ensure frame is square by utilizing a carpenters square and that all bolts are tight.
+
+
 
 ## 2. Assemble the X Axis Gantry
 
 #### 1. Prepare the Uprights
+Install T-Flanges into the X Gantry Uprights
 
 #### 2. Mount Uprights to Frame
+Using 16 M3x18 SHCS, mount both uprights to to the frame as shown in the photo. 
 
 #### 3. Install X Axis Extrusion and Rails
+Using 4 M5x20 SHCS, Mount both 
 
 #### 4. Install Stepper Motor
 
