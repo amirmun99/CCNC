@@ -108,8 +108,8 @@ Prepare the stepper motor by installing a flexible coupler onto the shaft, then 
 
 
 
-
-
+----
+Yes, these instructions aren't great. I am planning on releasing a much more detailed video tutorial once V2 is finalized. I am still constantly iterating and upgrading this machine and don't want to create a detailed guide only for it to be outdated within days.
 
 
 ----
