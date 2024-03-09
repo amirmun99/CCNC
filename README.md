@@ -2,6 +2,9 @@
 A Cheap (Relatively), yet capable CNC router/mill
 <br> 
 -----
+![Cheaper_CNC_Master_Build_Threaded_2022-Jul-21_03-48-01AM-000_CustomizedView20607925930](https://github.com/potatoworld/CCNC/assets/37276609/3f392ea6-2e18-456e-ad06-828fdff8bcd0)
+![Cheaper_CNC_Master_Build_Threaded_2022-Jul-15_05-47-59AM-000_CustomizedView9717156544](https://github.com/potatoworld/CCNC/assets/37276609/b4e3dd9c-8f25-42ac-a409-4a4063d7723c)
+![Cheaper_CNC_Master_Build_Threaded_2022-Jul-15_05-22-21AM-000_CustomizedView19849931560](https://github.com/potatoworld/CCNC/assets/37276609/58769810-5b29-40f4-9b49-0999aff6ab67)
 
 The Goal for this project is to create a relatively cheap (Sub $500CAD) CNC Machine that is capable of cutting wood, plastics and soft metals. 
 
